@@ -1,0 +1,743 @@
+{
+  "format": "javascript-image-pre1",
+  "arch": "os.osx.x86_64",
+  "load": [
+    {
+      "sourceMap": "packages/underscore.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/underscore.js"
+    },
+    {
+      "sourceMap": "packages/meteor.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteor.js"
+    },
+    {
+      "sourceMap": "packages/standard-app-packages.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/standard-app-packages.js"
+    },
+    {
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/jquery.js"
+    },
+    {
+      "sourceMap": "packages/json.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/json.js"
+    },
+    {
+      "sourceMap": "packages/backbone.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/backbone.js"
+    },
+    {
+      "sourceMap": "packages/base64.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/base64.js"
+    },
+    {
+      "sourceMap": "packages/ejson.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ejson.js"
+    },
+    {
+      "sourceMap": "packages/check.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/check.js"
+    },
+    {
+      "sourceMap": "packages/random.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/random.js"
+    },
+    {
+      "sourceMap": "packages/callback-hook.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/callback-hook.js"
+    },
+    {
+      "sourceMap": "packages/tracker.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/tracker.js"
+    },
+    {
+      "node_modules": "npm/logging/node_modules",
+      "sourceMap": "packages/logging.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/logging.js"
+    },
+    {
+      "sourceMap": "packages/retry.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/retry.js"
+    },
+    {
+      "sourceMap": "packages/routepolicy.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/routepolicy.js"
+    },
+    {
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/deps.js"
+    },
+    {
+      "sourceMap": "packages/htmljs.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/htmljs.js"
+    },
+    {
+      "sourceMap": "packages/html-tools.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/html-tools.js"
+    },
+    {
+      "sourceMap": "packages/blaze-tools.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/blaze-tools.js"
+    },
+    {
+      "node_modules": "npm/minifiers/node_modules",
+      "sourceMap": "packages/minifiers.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/minifiers.js"
+    },
+    {
+      "sourceMap": "packages/spacebars-compiler.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/spacebars-compiler.js"
+    },
+    {
+      "sourceMap": "packages/id-map.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/id-map.js"
+    },
+    {
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ordered-dict.js"
+    },
+    {
+      "sourceMap": "packages/geojson-utils.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/geojson-utils.js"
+    },
+    {
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/minimongo.js"
+    },
+    {
+      "sourceMap": "packages/observe-sequence.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/observe-sequence.js"
+    },
+    {
+      "sourceMap": "packages/reactive-var.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reactive-var.js"
+    },
+    {
+      "sourceMap": "packages/blaze.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/blaze.js"
+    },
+    {
+      "sourceMap": "packages/templating.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/templating.js"
+    },
+    {
+      "sourceMap": "packages/spacebars.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/spacebars.js"
+    },
+    {
+      "sourceMap": "packages/ui.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ui.js"
+    },
+    {
+      "sourceMap": "packages/boilerplate-generator.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/boilerplate-generator.js",
+      "assets": {
+        "boilerplate_web.browser.html": "assets/packages/boilerplate-generator/boilerplate_web.browser.html",
+        "boilerplate_web.cordova.html": "assets/packages/boilerplate-generator/boilerplate_web.cordova.html"
+      }
+    },
+    {
+      "sourceMap": "packages/webapp-hashing.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/webapp-hashing.js"
+    },
+    {
+      "node_modules": "npm/webapp/node_modules",
+      "sourceMap": "packages/webapp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/webapp.js"
+    },
+    {
+      "node_modules": "npm/ddp/node_modules",
+      "sourceMap": "packages/ddp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/ddp.js"
+    },
+    {
+      "sourceMap": "packages/follower-livedata.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/follower-livedata.js"
+    },
+    {
+      "sourceMap": "packages/application-configuration.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/application-configuration.js"
+    },
+    {
+      "sourceMap": "packages/binary-heap.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/binary-heap.js"
+    },
+    {
+      "node_modules": "npm/mongo/node_modules",
+      "sourceMap": "packages/mongo.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mongo.js"
+    },
+    {
+      "sourceMap": "packages/accounts-base.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-base.js"
+    },
+    {
+      "node_modules": "npm/npm-bcrypt/node_modules",
+      "sourceMap": "packages/npm-bcrypt.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/npm-bcrypt.js"
+    },
+    {
+      "sourceMap": "packages/sha.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/sha.js"
+    },
+    {
+      "sourceMap": "packages/srp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/srp.js"
+    },
+    {
+      "node_modules": "npm/email/node_modules",
+      "sourceMap": "packages/email.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/email.js"
+    },
+    {
+      "sourceMap": "packages/accounts-password.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-password.js"
+    },
+    {
+      "sourceMap": "packages/service-configuration.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/service-configuration.js"
+    },
+    {
+      "sourceMap": "packages/localstorage.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/localstorage.js"
+    },
+    {
+      "sourceMap": "packages/url.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/url.js"
+    },
+    {
+      "sourceMap": "packages/oauth.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/oauth.js",
+      "assets": {
+        "end_of_popup_response.html": "assets/packages/oauth/end_of_popup_response.html",
+        "end_of_redirect_response.html": "assets/packages/oauth/end_of_redirect_response.html"
+      }
+    },
+    {
+      "sourceMap": "packages/accounts-oauth.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-oauth.js"
+    },
+    {
+      "node_modules": "npm/http/node_modules",
+      "sourceMap": "packages/http.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/http.js"
+    },
+    {
+      "sourceMap": "packages/oauth1.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/oauth1.js"
+    },
+    {
+      "sourceMap": "packages/twitter.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/twitter.js"
+    },
+    {
+      "sourceMap": "packages/accounts-twitter.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-twitter.js"
+    },
+    {
+      "sourceMap": "packages/spiderable.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/spiderable.js",
+      "assets": {
+        "phantom_script.js": "assets/packages/spiderable/phantom_script.js"
+      }
+    },
+    {
+      "sourceMap": "packages/oauth2.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/oauth2.js"
+    },
+    {
+      "sourceMap": "packages/facebook.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/facebook.js"
+    },
+    {
+      "sourceMap": "packages/accounts-facebook.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-facebook.js"
+    },
+    {
+      "sourceMap": "packages/reactive-dict.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reactive-dict.js"
+    },
+    {
+      "sourceMap": "packages/iron_core.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_core.js"
+    },
+    {
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_dynamic-template.js"
+    },
+    {
+      "sourceMap": "packages/iron_layout.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_layout.js",
+      "assets": {
+        "default_layout.html": "assets/packages/iron_layout/default_layout.html"
+      }
+    },
+    {
+      "node_modules": "npm/iron:router/node_modules",
+      "sourceMap": "packages/iron_router.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/iron_router.js"
+    },
+    {
+      "sourceMap": "packages/livedata.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/livedata.js"
+    },
+    {
+      "sourceMap": "packages/mongo-livedata.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mongo-livedata.js"
+    },
+    {
+      "node_modules": "npm/meteorhacks:fast-render/node_modules",
+      "sourceMap": "packages/meteorhacks_fast-render.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_fast-render.js",
+      "assets": {
+        "lib/server/inject_data.html": "assets/packages/meteorhacks_fast-render/lib/server/inject_data.html",
+        "lib/server/inject_config.html": "assets/packages/meteorhacks_fast-render/lib/server/inject_config.html"
+      }
+    },
+    {
+      "sourceMap": "packages/meteorhacks_subs-manager.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_subs-manager.js"
+    },
+    {
+      "sourceMap": "packages/meteorhacks_npm.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_npm.js"
+    },
+    {
+      "node_modules": "npm/aldeed:simple-schema/node_modules",
+      "sourceMap": "packages/aldeed_simple-schema.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/aldeed_simple-schema.js"
+    },
+    {
+      "sourceMap": "packages/aldeed_autoform.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/aldeed_autoform.js"
+    },
+    {
+      "sourceMap": "packages/aldeed_collection2.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/aldeed_collection2.js"
+    },
+    {
+      "sourceMap": "packages/mrt_jquery-hotkeys.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mrt_jquery-hotkeys.js"
+    },
+    {
+      "sourceMap": "packages/mrt_cookies.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mrt_cookies.js"
+    },
+    {
+      "sourceMap": "packages/mrt_moment.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mrt_moment.js"
+    },
+    {
+      "node_modules": "npm/mrt:mailchimp/node_modules",
+      "sourceMap": "packages/mrt_mailchimp.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/mrt_mailchimp.js"
+    },
+    {
+      "sourceMap": "packages/handlebars.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/handlebars.js"
+    },
+    {
+      "node_modules": "npm/cmather:handlebars-server/node_modules",
+      "sourceMap": "packages/cmather_handlebars-server.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/cmather_handlebars-server.js"
+    },
+    {
+      "sourceMap": "packages/tmeasday_crypto-base.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/tmeasday_crypto-base.js"
+    },
+    {
+      "sourceMap": "packages/tmeasday_crypto-md5.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/tmeasday_crypto-md5.js"
+    },
+    {
+      "node_modules": "npm/sacha:spin/node_modules",
+      "sourceMap": "packages/sacha_spin.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/sacha_spin.js"
+    },
+    {
+      "node_modules": "npm/sacha:juice/node_modules",
+      "sourceMap": "packages/sacha_juice.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/sacha_juice.js"
+    },
+    {
+      "sourceMap": "packages/chuangbo_marked.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/chuangbo_marked.js"
+    },
+    {
+      "node_modules": "npm/percolatestudio:synced-cron/node_modules",
+      "sourceMap": "packages/percolatestudio_synced-cron.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/percolatestudio_synced-cron.js"
+    },
+    {
+      "sourceMap": "packages/telescope-lib.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-lib.js"
+    },
+    {
+      "sourceMap": "packages/telescope-i18n.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-i18n.js"
+    },
+    {
+      "sourceMap": "packages/telescope-base.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-base.js"
+    },
+    {
+      "sourceMap": "packages/telescope-tags.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-tags.js"
+    },
+    {
+      "sourceMap": "packages/telescope-search.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-search.js"
+    },
+    {
+      "node_modules": "npm/telescope-rss/node_modules",
+      "sourceMap": "packages/telescope-rss.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-rss.js"
+    },
+    {
+      "sourceMap": "packages/telescope-api.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-api.js"
+    },
+    {
+      "sourceMap": "packages/telescope-module-share.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-module-share.js"
+    },
+    {
+      "sourceMap": "packages/telescope-theme-base.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-theme-base.js"
+    },
+    {
+      "sourceMap": "packages/telescope-theme-hubble.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-theme-hubble.js"
+    },
+    {
+      "sourceMap": "packages/telescope-daily.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-daily.js"
+    },
+    {
+      "sourceMap": "packages/meteorhacks_async.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_async.js"
+    },
+    {
+      "node_modules": "npm/telescope-newsletter/node_modules",
+      "sourceMap": "packages/telescope-newsletter.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-newsletter.js"
+    },
+    {
+      "sourceMap": "packages/telescope-module-embedly.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-module-embedly.js"
+    },
+    {
+      "node_modules": "npm/telescope-email/node_modules",
+      "sourceMap": "packages/telescope-email.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-email.js"
+    },
+    {
+      "sourceMap": "packages/telescope-update-prompt.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-update-prompt.js"
+    },
+    {
+      "sourceMap": "packages/telescope-notifications.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-notifications.js"
+    },
+    {
+      "node_modules": "npm/meteorhacks:kadira-binary-deps/node_modules",
+      "sourceMap": "packages/meteorhacks_kadira-binary-deps.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_kadira-binary-deps.js"
+    },
+    {
+      "node_modules": "npm/meteorhacks:kadira/node_modules",
+      "sourceMap": "packages/meteorhacks_kadira.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteorhacks_kadira.js"
+    },
+    {
+      "sourceMap": "packages/telescope-kadira.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/telescope-kadira.js"
+    },
+    {
+      "sourceMap": "packages/matb33_collection-hooks.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/matb33_collection-hooks.js"
+    },
+    {
+      "node_modules": "npm/djedi:sanitize-html/node_modules",
+      "sourceMap": "packages/djedi_sanitize-html.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/djedi_sanitize-html.js"
+    },
+    {
+      "sourceMap": "packages/rajit_bootstrap3-datepicker.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/rajit_bootstrap3-datepicker.js"
+    },
+    {
+      "sourceMap": "packages/accounts-ui.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/accounts-ui.js"
+    },
+    {
+      "sourceMap": "packages/splendido_accounts-templates-core.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/splendido_accounts-templates-core.js"
+    },
+    {
+      "sourceMap": "packages/coffeescript.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/coffeescript.js"
+    },
+    {
+      "sourceMap": "packages/softwarerero_accounts-t9n.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/softwarerero_accounts-t9n.js"
+    },
+    {
+      "sourceMap": "packages/splendido_accounts-templates-unstyled.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/splendido_accounts-templates-unstyled.js"
+    },
+    {
+      "sourceMap": "packages/npm-container.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/npm-container.js",
+      "assets": {
+        "../../packages.json": "assets/packages.json"
+      }
+    },
+    {
+      "sourceMap": "packages/reload.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/reload.js"
+    },
+    {
+      "sourceMap": "packages/autoupdate.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/autoupdate.js"
+    },
+    {
+      "sourceMap": "packages/meteor-platform.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/meteor-platform.js"
+    },
+    {
+      "sourceMap": "packages/session.js.map",
+      "sourceMapRoot": "packages",
+      "path": "packages/session.js"
+    },
+    {
+      "path": "packages/global-imports.js"
+    },
+    {
+      "path": "app/lib/config/at_config.js"
+    },
+    {
+      "path": "app/lib/locales/en.js"
+    },
+    {
+      "path": "app/lib/locales/es.js"
+    },
+    {
+      "path": "app/lib/locales/fr.js"
+    },
+    {
+      "path": "app/lib/locales/it.js"
+    },
+    {
+      "path": "app/lib/locales/zh.js"
+    },
+    {
+      "path": "app/lib/analytics.js"
+    },
+    {
+      "path": "app/lib/errors.js"
+    },
+    {
+      "path": "app/lib/events.js"
+    },
+    {
+      "path": "app/lib/gravatar.js"
+    },
+    {
+      "path": "app/lib/helpers.js"
+    },
+    {
+      "path": "app/lib/parameters.js"
+    },
+    {
+      "path": "app/lib/permissions.js"
+    },
+    {
+      "path": "app/lib/publications.js"
+    },
+    {
+      "path": "app/lib/router.js"
+    },
+    {
+      "path": "app/lib/scoring.js"
+    },
+    {
+      "path": "app/lib/users.js"
+    },
+    {
+      "path": "app/lib/version.js"
+    },
+    {
+      "path": "app/lib/vote.js"
+    },
+    {
+      "path": "app/server/publications/other.js"
+    },
+    {
+      "path": "app/server/publications/posts_list.js"
+    },
+    {
+      "path": "app/server/publications/single_comment.js"
+    },
+    {
+      "path": "app/server/publications/single_post.js"
+    },
+    {
+      "path": "app/server/publications/user_profile.js"
+    },
+    {
+      "path": "app/server/publications/users.js"
+    },
+    {
+      "path": "app/server/publications/users_dashboard.js"
+    },
+    {
+      "path": "app/collections/comments.js"
+    },
+    {
+      "path": "app/collections/errors.js"
+    },
+    {
+      "path": "app/collections/invites.js"
+    },
+    {
+      "path": "app/collections/posts.js"
+    },
+    {
+      "path": "app/collections/settings.js"
+    },
+    {
+      "path": "app/collections/users.js"
+    },
+    {
+      "path": "app/server/invites.js"
+    },
+    {
+      "path": "app/server/migrations.js"
+    },
+    {
+      "path": "app/server/scoring.js"
+    },
+    {
+      "path": "app/server/toolbox.js"
+    },
+    {
+      "path": "app/server/users.js"
+    }
+  ]
+}
